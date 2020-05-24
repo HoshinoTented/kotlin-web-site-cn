@@ -13,7 +13,7 @@ title: "以 Gradle 构建多平台项目"
 Kotlin 多平台 Gradle 插件是用于创建 [Kotlin 多平台](multiplatform.html)
 项目的工具。这里我们提供了它的参考；在为 Kotlin 多平台项目编写 Gradle 构建脚本时，
 用它作提醒。有关 Kotlin 多平台项目的概念与使用插件编写构建脚本<!--
--->的说明，参见 [使用 Gradle 构建多平台项目](building-mpp-with-gradle.html)。
+-->的说明，参见[使用 Gradle 构建多平台项目](building-mpp-with-gradle.html)。
 
 ## 目录
  
